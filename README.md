@@ -22,6 +22,10 @@
 ### Скріншоти виконаної роботи 
 ![image](https://user-images.githubusercontent.com/91936629/160198938-23e2041a-1243-4e4c-a517-056c8b6fbf2a.png)
 ![image](https://user-images.githubusercontent.com/91936629/160199150-73ed1c44-e574-4d59-b2e7-d59c75918694.png)
+
 Документація прикріплена в описі про проект.
+
+![image](https://user-images.githubusercontent.com/91936629/160199293-f7a371c0-6634-4167-a814-0205a463b802.png)
+
 ![image](https://user-images.githubusercontent.com/91936629/160199193-23c9a745-6c75-427d-9d49-660f4c1d5f66.png)
 
