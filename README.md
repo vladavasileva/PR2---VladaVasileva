@@ -21,3 +21,5 @@
 
 ### Скріншоти виконаної роботи 
 ![image](https://user-images.githubusercontent.com/91936629/160198938-23e2041a-1243-4e4c-a517-056c8b6fbf2a.png)
+![image](https://user-images.githubusercontent.com/91936629/160199150-73ed1c44-e574-4d59-b2e7-d59c75918694.png)
+
